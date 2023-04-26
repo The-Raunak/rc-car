@@ -1,0 +1,109 @@
+@media  screen and (max-width: 376px){
+
+body{
+    padding-top: 10px;
+}
+    #img {
+        position: absolute;
+        top: 12%;
+        left: 36%;
+          height: 12vh;
+          width: 12vh;
+      }
+
+      .button1 {
+        position: absolute;
+        left: 35%;
+        top: 30%;
+      padding: 15px 15px;
+      font-size: 30px;
+      font-family: 'Ceviche One', cursive;
+      text-align: center;
+      outline: none;
+      color: #fff;
+      background-color: #2f4468;
+      border: none;
+      border-radius: 5px;
+     box-shadow: 1px 1px 10px  rgb(8, 181, 255);
+      cursor: pointer;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      -webkit-tap-highlight-color: rgba(0,0,0,0);
+    }  
+    .button2 {
+        position: absolute;
+        left: 70%;
+        top: 48%;
+      padding: 15px 15px;
+      font-size: 30px;
+    font-family: 'Ceviche One', cursive;
+      text-align: center;
+      outline: none;
+      color: #fff;
+      background-color: #2f4468;
+      border: none;
+      border-radius: 5px;
+      box-shadow: 1px 1px 10px  rgb(8, 181, 255);
+      cursor: pointer;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      -webkit-tap-highlight-color: rgba(0,0,0,0);
+    }  
+    .button3 {
+    position: absolute;
+    left: 5%;
+    top: 48%;
+      padding: 15px 20px;
+      font-size: 30px;
+    font-family: 'Ceviche One', cursive;
+      text-align: center;
+      outline: none;
+      color: #fff;
+      background-color: #2f4468;
+      border: none;
+      border-radius: 5px;
+      box-shadow: 1px 1px 10px  rgb(8, 181, 255);
+      cursor: pointer;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      -webkit-tap-highlight-color: rgba(0,0,0,0);
+    }
+
+    .button4 {
+        position: absolute;
+        left: 36%;
+        top: 60%;
+      padding: 15px 25px 15px 25px;
+      font-size: 30px;
+    font-family: 'Ceviche One', cursive;
+      text-align: center;
+      outline: none;
+      color: #fff;
+      background-color: #2f4468;
+      border: none;
+      border-radius: 5px;
+      box-shadow: 1px 1px 10px  rgb(8, 181, 255);
+      cursor: pointer;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      -webkit-tap-highlight-color: rgba(0,0,0,0);
+    }  
+    
+    
+}
